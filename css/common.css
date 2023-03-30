@@ -8,9 +8,13 @@ body {
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #fafafa;
+  background-color: #ffffff;
   color: #212121;
   line-height: 1.5;
+}
+
+.bg{
+background: linear-gradient(to right top, #6bd1cb, #63d6c5, #60dbbc, #65dfb0, #70e3a1, #80e695, #92e888, #a4ea7b, #baeb71, #d0eb69, #e5eb63, #fbea5f);
 }
 
 input {
